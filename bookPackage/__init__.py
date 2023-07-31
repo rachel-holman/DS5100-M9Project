@@ -1,1 +1,1 @@
-from .BookLover import *
+from .booklover import *
